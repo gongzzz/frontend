@@ -1,2 +1,4 @@
 # frontend
-Record my frontend learning ways.
+Welcome 
+this is my first upload file which records my frontend learning ways.
+thanks to github
